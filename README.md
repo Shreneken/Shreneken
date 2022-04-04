@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shreyan a.k.a Shreneken
 - 👀 Im curious to discover many fields and willing to learn anything.
-- 🌱 I’m currently learning advanced Java, Javascript
+- 🌱 I’m currently learning advanced Java, Javascript, Python
 - 💞️ I’m looking to collaborate on small projects which I can do side-by-side with my college stuff
 - 📫 How to reach me: email me at shrnmallik@gmail.com
 
