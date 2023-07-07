@@ -1,7 +1,6 @@
 - 👋 Hi! I’m Shreyan
 - 👀 Im curious to discover many fields and willing to learn new technologies.
 - 🌱 I’m currently learning advanced Java, Javascript and Python
-- 💞️ I’m looking for internships for summer 2023
 - 📫 How to reach me: email me at shrnmallik@gmail.com
 
 <!---
